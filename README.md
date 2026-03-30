@@ -14,22 +14,6 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-/*
-## *Stats* 
-<div align="left" >
-  <a href="https://github.com/natanael-de-paulo">
-     <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api?username=natanael-de-paulo&show_icons=true&count_private=true&include_all_commits=true&theme=dark">
-     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-de-paulo&langs_count=16&layout=compact&theme=dark&hide_progress=false&card_width=480"/>
-  </a>
-</div>
-
-<div align='center'>
-  <a href="https://github.com/Lucas-G-Costa">
-    <img height="175em" width="80%" src="https://streak-stats.demolab.com/?user=natanael-de-paulo&dates=FFF&theme=dark">
-  </a>
-</div>
-*/
-
 ## *Entre em contato*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-ab49582bb)
